@@ -1,0 +1,33 @@
+=== Estudiantes de Diseño ===
+Cedula: 10365463452
+Nombre: Alejandra
+Apellido: Cano
+Telefono: 31287645
+Modalidad: Virtual
+Asignatura: 5
+Serial: 1223345
+--------------------------------------------------------------------------------------
+Cedula: 56467148
+Nombre: Diana
+Apellido: Vasquez
+Telefono: 312567984
+Modalidad: Virtual
+Asignatura: 8
+Serial: 2355667
+--------------------------------------------------------------------------------------
+Cedula: 1056789456
+Nombre: Daniel
+Apellido: Sanchez
+Telefono: 322456789
+Modalidad: Presencial
+Asignatura: 4
+Serial: 12345
+--------------------------------------------------------------------------------------
+Cedula: 71738685
+Nombre: Hernan
+Apellido: Morales
+Telefono: 315435678
+Modalidad: Virtual
+Asignatura: 6
+Serial: 123998
+--------------------------------------------------------------------------------------

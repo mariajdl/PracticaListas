@@ -1,0 +1,33 @@
+=== Inventario de PC ===
+Serial: 1234h
+Marca: HP
+Tamaño: 12.0
+Precio: 1.0
+Sistema: Windows 7
+Procesador: Intel core i5
+Disponibilidad: En prestamo
+--------------------------------------------------------------------------------------
+Serial: 123R
+Marca: DELL
+Tamaño: 23.0
+Precio: 2.0
+Sistema: Windows 11
+Procesador: Intel core i5
+Disponibilidad: En prestamo
+--------------------------------------------------------------------------------------
+Serial: 123g
+Marca: lenovo
+Tamaño: 15.0
+Precio: 1.5
+Sistema: Windows 10
+Procesador: AMD Ryzen
+Disponibilidad: En prestamo
+--------------------------------------------------------------------------------------
+Serial: 123244R
+Marca: ACER
+Tamaño: 18.0
+Precio: 2.3
+Sistema: Windows 10
+Procesador: AMD Ryzen
+Disponibilidad: En prestamo
+--------------------------------------------------------------------------------------
