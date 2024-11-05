@@ -1,0 +1,33 @@
+=== Inventario de Tabletas ===
+Serial: 1223345
+Marca: lenovo
+Tamaño: 12.0
+Precio: 2.0
+Almacenamiento: 512GB
+Peso: 24.0
+Disponibilidad: En prestamo
+--------------------------------------------------------------------------------------
+Serial: 2355667
+Marca: Samsung
+Tamaño: 43.0
+Precio: 1.5
+Almacenamiento: 256GB
+Peso: 123.0
+Disponibilidad: En prestamo
+--------------------------------------------------------------------------------------
+Serial: 12345
+Marca: ACER
+Tamaño: 13.0
+Precio: 3.0
+Almacenamiento: 256GB
+Peso: 13.0
+Disponibilidad: En prestamo
+--------------------------------------------------------------------------------------
+Serial: 123998
+Marca: DELL
+Tamaño: 12.0
+Precio: 1.3
+Almacenamiento: 1TB
+Peso: 12.0
+Disponibilidad: En prestamo
+--------------------------------------------------------------------------------------

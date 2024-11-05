@@ -1,0 +1,33 @@
+=== Estudiantes Ingeniería ===
+Cedula: 1024474735
+Nombre: Mariajose
+Apellido: Del
+Telefono: 3146044356
+Semestre: 3
+Promedio: 3.9
+Serial: 1234h
+--------------------------------------------------------------------------------------
+Cedula: 1000120446
+Nombre: Sofia
+Apellido: Lopez
+Telefono: 3228804282
+Semestre: 8
+Promedio: 4.5
+Serial: 123R
+--------------------------------------------------------------------------------------
+Cedula: 1025644976
+Nombre: Mariana
+Apellido: Castro
+Telefono: 3125977598
+Semestre: 5
+Promedio: 4.6
+Serial: 123g
+--------------------------------------------------------------------------------------
+Cedula: 10354756897
+Nombre: Melanny
+Apellido: Betancur
+Telefono: 35689756
+Semestre: 5
+Promedio: 5.0
+Serial: 123244R
+--------------------------------------------------------------------------------------
